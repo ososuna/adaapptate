@@ -53,7 +53,7 @@ export class LoginPage implements OnInit {
   }
 
   home(){
-    this.navController.navigateRoot( '/main/tabs/tab1', { animated: true } );
+    this.navController.navigateRoot( '/tabs', { animated: true } );
   }
 
 }

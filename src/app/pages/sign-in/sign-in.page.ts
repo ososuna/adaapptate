@@ -17,7 +17,7 @@ export class SignInPage implements OnInit {
   }
 
   home(){
-    this.navController.navigateRoot( '/home/tabs', { animated: true } );
+    this.navController.navigateRoot( 'tabs', { animated: true } );
   }
 
 }
