@@ -1,0 +1,8 @@
+{
+  "name": "adaapptate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "30a37059"
+}
